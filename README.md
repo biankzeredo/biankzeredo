@@ -1,5 +1,5 @@
 - 👋 ola, meu nome é Bianca
-- 👀 sou interessada em livro
+- 👀 sou interessada em livros
 - 🌱 estou aprendendo programação
 
 
